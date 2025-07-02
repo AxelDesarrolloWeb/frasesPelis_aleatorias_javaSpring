@@ -126,3 +126,9 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 3. Haz commit de tus cambios (`git commit -m 'Add awesome feature'`)
 4. Haz push a la rama (`git push origin feature/awesome-feature`)
 5. Abre un Pull Request
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Avisos importantes:
+- Recuerda que los datos a insertar a la base de datos pueden ser modificados y/o inventados por usted mismo, algunos posters pueden no funcionar con el tiempo.
+- Puedes o debes configurar variables de entorno o utilizar otro método para una conexión a la base de datos segura.
